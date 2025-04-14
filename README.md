@@ -1,4 +1,4 @@
-# Mini Social Network for Hobby Groups – UI Design
+# Mini Social Network for Hobby Groups
 
 🎨 This repository contains the Figma-based UI design for a Mini Social Network platform dedicated to hobby groups.
 
